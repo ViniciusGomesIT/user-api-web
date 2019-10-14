@@ -1,4 +1,5 @@
 export const environment = {
   production: true,
-  api: 'http://192.196.0.1/api'
+  api: 'https://vini-user-service.herokuapp.com/',
+  auth: 'https://vini-auth-service.herokuapp.com/'
 };
