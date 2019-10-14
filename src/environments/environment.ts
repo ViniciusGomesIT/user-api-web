@@ -1,6 +1,6 @@
 export const environment = {
   production: false,
-  api: 'http://localhost:9092',
-  auth: 'http://localhost:9091'
+  api: 'https://vini-user-service.herokuapp.com',
+  auth: 'https://vini-auth-service.herokuapp.com'
 };
 
